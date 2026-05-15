@@ -1,6 +1,6 @@
 streamlit
+osmnx
 pandas
 numpy
 matplotlib
-osmnx
 shapely
